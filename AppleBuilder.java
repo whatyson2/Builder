@@ -9,7 +9,7 @@ package atividadebuilder;
  *
  * @author whaty
  */
-public class AppleIphoneBuilder extends CelularBuilder {
+public class AppleBuilder extends CelularBuilder {
 
     @Override
     public void buildResistenciaAgua() {

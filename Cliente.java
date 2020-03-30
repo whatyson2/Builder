@@ -30,7 +30,7 @@ public class Cliente {
 	
             System.out.println();
 	 
-            LojaDirector loja3 = new LojaDirector(new AppleIphoneBuilder());
+            LojaDirector loja3 = new LojaDirector(new AppleBuilder());
 	 
 	    loja3.construirCelular();
 	    CelularProduct celular3 = loja3.getProduct();
